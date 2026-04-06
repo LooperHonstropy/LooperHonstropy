@@ -1,16 +1,19 @@
-## Hi there 👋
+## Carmelo Oemar Waskito (LooperHonstropy)
 
-<!--
-**LooperHonstropy/LooperHonstropy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### He/Him | 🇮🇩 |22 YO
 
-Here are some ideas to get you started:
+I like to make animations using Blender. Additional apps I use frequently are **Photoshop**, **Inkscape**, and **Davinci Resolve**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+While my main passion is animation, **Shaders in blender** are also something I like to make. I'm also experienced in **rigging characters** (mostly because I had to fix some stuff for my animations).
+
+I am currently creating and updating a Blender recreation of the Umamusume In-game shaders.
+
+You can find me on my socials, **ordered by most active:**
+
+- [Discord](discordapp.com/users/294392873074425856)
+  
+- [Twitter](https://twitter.com/honstropy)
+  
+- [Youtube](https://www.youtube.com/@looperhonstropy)
+  
+- [Personal Website ⚠️FUNCTIONAL, BUT UNDER CONSTRUCTION⚠️](looperhonstropy.neocities.org)
