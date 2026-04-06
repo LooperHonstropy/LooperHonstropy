@@ -16,4 +16,4 @@ You can find me on my socials, **ordered by most active:**
   
 - [Youtube](https://www.youtube.com/@looperhonstropy)
   
-- [Personal Website ⚠️FUNCTIONAL, BUT UNDER CONSTRUCTION⚠️](looperhonstropy.neocities.org)
+- [Personal Website ⚠️FUNCTIONAL, BUT UNDER CONSTRUCTION⚠️](https://looperhonstropy.neocities.org)
