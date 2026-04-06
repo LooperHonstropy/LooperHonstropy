@@ -10,7 +10,7 @@ I am currently creating and updating a Blender recreation of the Umamusume In-ga
 
 You can find me on my socials, **ordered by most active:**
 
-- [Discord](discordapp.com/users/294392873074425856)
+- [Discord](https://discordapp.com/users/294392873074425856)
   
 - [Twitter](https://twitter.com/honstropy)
   
